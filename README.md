@@ -1,4 +1,4 @@
-# unicorns_dashboard
+# Unicorns_Dashboard
 
 ### About Data
 
@@ -13,6 +13,8 @@ The dashboard tells a story of Unicorn companies in the world. Unicorn is a priv
 - The industries of Fintech, Internet Network & Services, E-commerce, and Artificial Intelligence take the lead in unicorn growth and prominence.
 
 ### 📊 Visualization
+
+This is a 2-page dashboard
 
 [Power BI](Link)
 
