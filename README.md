@@ -16,8 +16,6 @@ The dashboard tells a story of Unicorn companies in the world. Unicorn is a priv
 
 This is a 2-page dashboard
 
-[Power BI](https://app.powerbi.com/reportEmbed?reportId=7f58d174-2d84-46c8-8d26-30e38fa9beae&autoAuth=true&ctid=9237d2d8-f5dd-406d-9d9f-852d861fca18)
-
 ![Microsoft Power BI - Google Chrome 2023-08-10 22-17-44](https://github.com/Chuntim0303/unicorns_dashboard/assets/126696701/30a7841c-b065-445c-b268-89a72ea769f5)
 
 ![Screenshot_2](https://github.com/Chuntim0303/Portfolio/assets/126696701/f94569e4-eaf5-49f3-8d17-1178a1236a4a)
