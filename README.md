@@ -23,4 +23,4 @@ This is a 2-page dashboard
 ![Screenshot_4](https://github.com/Chuntim0303/Portfolio/assets/126696701/ab7e6dd9-9693-4177-97b4-928ff0558a51)
 
 
-<iframe title="unicorn_startups_dashboard" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=7f58d174-2d84-46c8-8d26-30e38fa9beae&autoAuth=true&ctid=9237d2d8-f5dd-406d-9d9f-852d861fca18" frameborder="0" allowFullScreen="true"></iframe>
+https://app.powerbi.com/reportEmbed?reportId=7f58d174-2d84-46c8-8d26-30e38fa9beae&autoAuth=true&ctid=9237d2d8-f5dd-406d-9d9f-852d861fca18
